@@ -1,3 +1,3 @@
 # PicPay - Clone
 
-Clone do PicPay, desenvolvido em React-Native (react-navigation, hooks e styled-components)
+PicPay Clone, made with React Native (react-navigation, hooks e styled-components)
